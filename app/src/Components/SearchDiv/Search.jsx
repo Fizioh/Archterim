@@ -8,7 +8,7 @@ import {BiSolidLocationPlus} from 'react-icons/bi'
 
 const Search = () => {
   return (
-    <div className='searchDiv grid gp-10 bg-greyIsh rounded-[10px] p-[3rem]'>
+    <div className='searchDiv grid gap-10 bg-greyIsh rounded-[10px] p-[3rem]'>
       <form action="">
 
         <div className='firstDiv flex justify-between items-center rounded-[8px] gap-[10px] bg-white p-5 shadow-lg shadow-greyIsh-700'>
@@ -45,6 +45,54 @@ const Search = () => {
 
         </div>
       </form>
+
+      <div className='secDiv flex items-center gap-10 justify-center'>
+        <div className='singleSearch flex items-center gap-2'> 
+          <select name="" id="relevance" className='bg-white-rounded-[3px] px-4 py-1'>
+            <option value="">Pertinence</option>
+            <option value="">Date</option>
+          </select>
+        </div>
+
+        <div className='singleSearch flex items-center gap-2'>
+          <select name="" id="relevance" className='bg-white-rounded-[3px] px-4 py-1'>
+            <option value="">Horaires</option>
+            <option value="">Templs Plein</option>
+            <option value="">Temps partiel</option>
+            <option value="">Tout</option>
+          </select>
+        </div>
+        <div className='singleSearch flex items-center gap-2'>
+          <select name="" id="relevance" className='bg-white-rounded-[3px] px-4 py-1'>
+            <option value="">Durée</option>
+            <option value="">-1 mois</option>
+            <option value="">+1 mois</option>
+            <option value="">+6 mois</option>
+            <option value="">+1 an</option>
+            <option value="">Toutes</option>
+          </select>
+        </div>
+        <div className='singleSearch flex items-center gap-2'>
+          <select name="" id="relevance" className='bg-white-rounded-[3px] px-4 py-1'>
+            <option value="">Télétravail</option>
+            <option value="">Télétravail Partiel</option>
+            <option value="">Présentiel</option>
+            <option value="">Tous</option>
+          </select>
+          <div className='singleSearch flex items-center gap-2'>
+          <select name="" id="relevance" className='bg-white-rounded-[3px] px-4 py-1'>
+            <option value="">Niveau</option>
+            <option value="">Junior</option>
+            <option value="">Confirmé</option>
+            <option value="">Senior</option>
+            <option value="">Expert</option>
+            <option value="">Tous</option>
+          </select>
+        </div>
+
+        <span className='text-[#a1a1a1] cursor-pointer'>Effacer Tout</span>
+        </div>
+      </div>
     </div>
   )
 }
