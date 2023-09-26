@@ -1,0 +1,226 @@
+[
+    {
+        "id": "162GKTQ",
+        "intitule": "Responsable de l'Architecture SI    (H/F)",
+        "description": "Vos missions\nLe/la responsable de l'Architecture SI définit l'architecture du système d'information, en suivant les directives de l'urbaniste SI et en répondant aux enjeux MOA\n\nVous garantissez la cohérence de l'ensemble des moyens informatiques (matériels, applicatifs, bases de données, réseaux, middleware, système d'exploitation, ERP, CLOUD, *AAS ...) et de son évolution, en exploitant au mieux les possibilités de l'art. \nVous avez en charge la bonne application des règles d'urbanisme et de cybersécurité (processus, fonctionnalités, aspects techniques, gestion des données) et contribue à la bonne application des règles d'urbanisme et de cybersécurité (application). \nVous êtes garant de la cohérence du système, vous évaluez la pertinence et la cohérence des projets par rapport à cette architecture cible et aux systèmes existants. \nVous fournissez l'assistance suffisante visant à garantir que l'ensemble des centres de services / fournisseurs peuvent transformer les applications.\nVous avez pour mission de capitaliser sur les différents retours d'expériences et de participer à l'amélioration continue de votre domaine\nVous travaillez en relation avec les équipes de la DSI de Fret SNCF, notamment l'urbanisme, la cybersécurité, la gestion des projets et solutions et les Product Owners. Vous êtes également l'interlocuteur privilégié des éditeurs et intégrateurs internes ou externes et représente Fret SNCF dans les instances Architecture Groupe. \nVous devrez également piloter les fournisseurs du domaine Architecture et serez interlocuteur majeur du Centre de Service Production.\nVous avez une appétence pour la conception en vue d'une intégration aisée et d'une exploitation automatisée\n\nVotre quotidien\nEn tant que Responsable de l'Architecture SI, vous serez amené à effectuer les tâches suivantes :\n\nConception\n\nConception de l'architecture des systèmes d'information \nDéfinition de la stratégie de gestion de la disponibilité des applications \nParticipation à la définition du paysage applicatif et des environnements\nConception et dimensionnement des couches d'infrastructure ainsi que des normes et standards d'utilisation et d'exploitation\nDéfinition des systèmes \nÉtude sur les matériels, outils et logiciels techniques\nConception des solutions d'administration, d'aide à l'exploitation et de surveillance\nGestion des standards et de normes \nGestion des fournisseurs \nSupport \nVeille technologique \nLivrables \n\nProfil recherché\nRejoignez nous si vous vous reconnaissez dans ce profil: \n\nExpérience réussie de 10 ans dans le domaine SI (dont 5 ans dans le domaine de l'Architecture d'Entreprise)\nExcellente connaissance des SI, des architectures N-Tiers, du Cloud\nTrès bonnes connaissances des technologies d'Infrastructures Datacenter, de middlewares et de bases de données\nExpertise sur les composants Java - J2EE, Linux (Ubuntu / RedHat), Oracle / PostgreSQL, LB\nBonne connaissance appréciée de l'usine logicielle JAVA (JENKINS, GITLAB, ECLIPSE, ANSIBLE, MAVEN) et du DEVOPS\nConnaissances / compétences des outils ITSM, FinOps, Conteneurisation, API, microservices\nMaîtrise de la conduite de projet (Assistance Technique / Forfait / Gestion de projet, méthode Agile)\nUn plus :\n\nExpérience dans le domaine logistique et production ferroviaire.\nMaitrise de l'anglais (pour gérer les projets avec les acteurs internationaux, filiales étrangères SNCF, représentation internationale du ferroviaire)",
+        "dateCreation": "2023-09-26T15:10:22.000Z",
+        "dateActualisation": "2023-09-26T15:10:24.000Z",
+        "lieuTravail": {
+            "libelle": "93 - ST OUEN SUR SEINE",
+            "latitude": 48.910901,
+            "longitude": 2.333341,
+            "codePostal": "93400",
+            "commune": "93070"
+        },
+        "romeCode": "M1802",
+        "romeLibelle": "Expertise et support en systèmes d'information",
+        "appellationlibelle": "Architecte système d'information",
+        "entreprise": {
+            "nom": "SNCF",
+            "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "Contrat à durée indéterminée",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "10 ans",
+        "formations": [
+            {
+                "niveauLibelle": "Bac+5 et plus ou équivalents",
+                "exigence": "E"
+            }
+        ],
+        "competences": [
+            {
+                "code": "300195",
+                "libelle": "Concevoir un logiciel, un système d'informations, une application",
+                "exigence": "S"
+            },
+            {
+                "code": "300488",
+                "libelle": "Concevoir et gérer un projet",
+                "exigence": "S"
+            },
+            {
+                "code": "300495",
+                "libelle": "Évaluer le résultat de ses actions",
+                "exigence": "S"
+            }
+        ],
+        "salaire": {
+            "commentaire": "à définir selon profil",
+            "complement1": "Autre"
+        },
+        "dureeTravailLibelle": "35H Travail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+            "coordonnees1": "https://www.emploi.sncf.com/nos-offres-emploi/2022-21268/idOrigine/56215/?utm_source=POLEEMPLOI&utm_medium=TargetingSourcing&utm_campaign=SNCF_ACT",
+            "urlPostulation": "https://www.emploi.sncf.com/nos-offres-emploi/2022-21268/idOrigine/56215/?utm_source=POLEEMPLOI&utm_medium=TargetingSourcing&utm_campaign=SNCF_ACT"
+        },
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "codeNAF": "49.10Z",
+        "secteurActivite": "49",
+        "secteurActiviteLibelle": "Transport ferroviaire interurbain de voyageurs",
+        "qualitesProfessionnelles": [
+            {
+                "libelle": "Travailler en équipe",
+                "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
+            },
+            {
+                "libelle": "Organiser son travail selon les priorités et les objectifs",
+                "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+            },
+            {
+                "libelle": "Faire preuve de rigueur et de précision",
+                "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+            }
+        ],
+        "origineOffre": {
+            "origine": "1",
+            "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/162GKTQ"
+        },
+        "offresManqueCandidats": false
+    },
+    {
+        "id": "162FYWJ",
+        "intitule": "Ingénieur / Architecte réseaux SD-WAN / FORTINET (H/F)",
+        "description": "Dans le cadre d'une intégration avec un client final, nous recherchons un Ingénieur / Architecte réseaux SD-WAN / FORTINET\n\nIntégré à la DSI, vous avez une expérience et des compétences sur la techno SDWAN Fortinet pour assurer des actions BUILD : Collecte des infos, Ingénierie, Implémentation, validation du fonctionnement en phase pilote, assistance au déploiement sur les sites sensibles dans un contexte international\n\nContribuer à une équipe technique projet SDWAN Fortinet\nAdapter un design technique (HLD/LLD/COG) pour répondre à des besoins spécifiques de nos filiales à l'international sur les services SDWAN\nMonter et réaliser des tests en lab sur des configurations spécifiques\nSoutenir le troubleshooting N ou N en cas de problème lors des déploiements\nCompétences requises :\nDe formation ingénieur ou équivalent, vous avez une expérience de 5 ans minimum dans un poste équivalent.\n\nCompétences du SDWAN Fortinet ou Vip ou Meraki\nCompétences recherchées\nMaîtrise des réseau WAN\nMaîtrise de sujets IP, MPLS, VRF VPN, BGP\nExpérience pratique sur des équipements Fortinet et Cisco\nAnglais obligatoire contexte international\nEn complément, des compétences sur d'autres briques technos Fortinet (Sécurité, FortiMail, FortiAuthenticator, ZTNA, ) ou sur des déploiements SDWAN/LAN/WiFi en Meraki",
+        "dateCreation": "2023-09-26T11:55:04.000Z",
+        "dateActualisation": "2023-09-26T11:55:06.000Z",
+        "lieuTravail": {
+            "libelle": "92 - ISSY LES MOULINEAUX",
+            "latitude": 48.823903,
+            "longitude": 2.262888,
+            "codePostal": "92130",
+            "commune": "92040"
+        },
+        "romeCode": "M1802",
+        "romeLibelle": "Expertise et support en systèmes d'information",
+        "appellationlibelle": "Architecte réseaux informatiques",
+        "entreprise": {
+            "nom": "INFORMATIS T.S.",
+            "url": "http://www.informatis-ts.fr",
+            "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "Contrat à durée indéterminée",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "3 ans",
+        "competences": [
+            {
+                "code": "300195",
+                "libelle": "Concevoir un logiciel, un système d'informations, une application",
+                "exigence": "S"
+            },
+            {
+                "code": "300488",
+                "libelle": "Concevoir et gérer un projet",
+                "exigence": "S"
+            },
+            {
+                "code": "300495",
+                "libelle": "Évaluer le résultat de ses actions",
+                "exigence": "S"
+            }
+        ],
+        "salaire": {
+            "libelle": "Annuel de 50000,00 Euros à 60000,00 Euros sur 12 mois"
+        },
+        "dureeTravailLibelle": "35H Travail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+            "nom": "INFORMATIS T.S. - M. MARC SOREL",
+            "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/162FYWJ",
+            "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/162FYWJ"
+        },
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "deplacementCode": "1",
+        "deplacementLibelle": "Jamais",
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "codeNAF": "62.02A",
+        "secteurActivite": "62",
+        "secteurActiviteLibelle": "Conseil en systèmes et logiciels informatiques",
+        "origineOffre": {
+            "origine": "1",
+            "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/162FYWJ"
+        },
+        "offresManqueCandidats": false
+    },
+    {
+        "id": "162FYMN",
+        "intitule": "Architecte plateforme réseaux CISCO ACI (H/F)",
+        "description": "Dans le cadre d'un important projet avec un groupe international, nous recherchons un Architecte Plateforme Réseaux IT/ CISCO ACI.\nAu sein de l'équipe Infrastructure du groupe, l'Architecte Plateforme définit et met en place l'architecture technique et fonctionnelle des plateformes dont il est responsable, dans le respect des standards et dans une optique de fonctionnement en service régulier optimal.\nIl garantit l'évolution cohérente de ces plateformes par rapport aux objectifs de l'entreprise, tout en tenant compte des contraintes externes et internes (de risques, de coûts, de délais,  ).\nAvec l'aide des relais opérationnels, il est le garant et le référent du périmetre technique des plateformes dont il est responsable impliquant la mise en place du MCO (Maintien en Condition Opérationnelle) et de son contrôle via les Comités Opérationnels (COPER) et des indicateurs associés.\n\nVous êtes en charge de :\nConception et déploiement de l'architecture IT relative aux plateformes concernées et surveillance de l'application du MCO :\n- Conception d'architecture technique et fonctionnelle\n- Analyse d'impacts techniques et fonctionnels des nouvelles solutions sur l'architecture existante ou prévisionnelle\n- Vérification de la cohérence de l'architecture globale\n- Préconisation de choix de solutions en vue d'assurer la cohérence globale, présentation Roadmap\n- Pilotage / réalisation du déploiement des architectures techniques préconisées\n\nStandardisation des outils et méthodes :\n- Définition des standards techniques et rédaction des bonnes pratiques associées\n- Fourniture de composants prêts à l'emploi pour standardiser les processus techniques et métiers et faciliter l'application de méthodes standards\n- Contrôle du respect de l'ensemble des normes et standards définis sur le périmètre technique\n\nPréconisations :\n- Analyse des besoins exprimés par les clients et vérification de leur pertinence\n- Recadrage, le cas échéant, de l'expression de besoin à l'origine de l'élaboration d'une nouvelle solution ou proposition d'une solution équivalente\n- Évaluation de la pertinence des projets par rapport à l'architecture cible, aux systèmes existants et dans une mise en perspective globale des objectifs du groupe\n- Préconisation de choix techniques et fonctionnels en vue d'assurer la cohérence de l'évolution des infrastructures et plateformes\n\n\nCommunication :\n- Promotion de l'architecture technique et logicielle et des choix technologiques auprès des différents acteurs du groupe\n- Constitution des groupes techniques de travail pour capitaliser sur les compétences techniques et fonctionnelles, et favoriser la collaboration inter-équipe, principalement autour des comité opérationnels (COPER)\n- Conception du plan de formation des solutions et accompagnement des équipes dans la mise en œuvre de ces solutions\n- Communication et formation pour assurer la montée en compétences des relais opérationnels et des collaborateurs RUN Operations\n\nVeille et amélioration continue :\n- Veille technologique permanente, force de proposition\n- Recherche et identification de solutions innovantes et pertinentes pour le contexte du groupe.\n- Réflexion continue sur les axes d'amélioration\n\n\nCompétences requises :\nDe formation Ingénieur ou équivalent en informatique, vous avez une expérience de 5 ans minimum dans un poste équivalent.\n\nExpérience très significative autour du LAN, Cisco ACI.\nExpérience forte autour du SD WAN\nExpertise en technologies CLOUD\nExpertise en méthodologie de développement d'architecture.\nExpertise en gestion de projet.",
+        "dateCreation": "2023-09-26T11:51:15.000Z",
+        "dateActualisation": "2023-09-26T18:05:27.000Z",
+        "lieuTravail": {
+            "libelle": "92 - ISSY LES MOULINEAUX",
+            "latitude": 48.823903,
+            "longitude": 2.262888,
+            "codePostal": "92130",
+            "commune": "92040"
+        },
+        "romeCode": "M1804",
+        "romeLibelle": "Études et développement de réseaux de télécoms",
+        "appellationlibelle": "Architecte réseaux de télécoms",
+        "entreprise": {
+            "nom": "INFORMATIS T.S.",
+            "url": "http://www.informatis-ts.fr",
+            "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "Contrat à durée indéterminée",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "5 ans",
+        "competences": [
+            {
+                "code": "101397",
+                "libelle": "Modélisation et simulation",
+                "exigence": "S"
+            },
+            {
+                "code": "102216",
+                "libelle": "Gestion budgétaire",
+                "exigence": "S"
+            },
+            {
+                "code": "300488",
+                "libelle": "Concevoir et gérer un projet",
+                "exigence": "S"
+            }
+        ],
+        "salaire": {
+            "libelle": "Annuel de 60000,00 Euros à 70000,00 Euros sur 12 mois"
+        },
+        "dureeTravailLibelle": "35H Travail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+            "nom": "INFORMATIS T.S. - M. MARC SOREL",
+            "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/162FYMN",
+            "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/162FYMN"
+        },
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "deplacementCode": "1",
+        "deplacementLibelle": "Jamais",
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "codeNAF": "62.02A",
+        "secteurActivite": "62",
+        "secteurActiviteLibelle": "Conseil en systèmes et logiciels informatiques",
+        "origineOffre": {
+            "origine": "1",
+            "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/162FYMN"
+        },
+        "offresManqueCandidats": false
+    }
+]
